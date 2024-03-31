@@ -73,4 +73,5 @@ group :test do
   gem "selenium-webdriver"
   gem "better_errors", "~> 2.9.1"
   gem "guard", "~> 2.16"
+  gem "livereload", "~> 1.6"
 end
