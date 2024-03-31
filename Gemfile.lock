@@ -110,6 +110,7 @@ GEM
     erubi (1.12.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
+    gravatar_image_tag (1.2.0)
     i18n (1.14.4)
       concurrent-ruby (~> 1.0)
     importmap-rails (2.0.1)
@@ -261,6 +262,7 @@ DEPENDENCIES
   capybara
   debug
   devise (~> 4.8)
+  gravatar_image_tag (~> 1.2)
   importmap-rails
   jbuilder
   puma (>= 5.0)
