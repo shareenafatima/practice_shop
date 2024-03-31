@@ -72,4 +72,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "better_errors", "~> 2.9.1"
+  gem "guard", "~> 2.16"
 end
