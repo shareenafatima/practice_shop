@@ -25,7 +25,7 @@ gem "stimulus-rails"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
-
+gem 'simple_form', '~> 5.1'
 
 gem 'devise','~> 4.8'
 
